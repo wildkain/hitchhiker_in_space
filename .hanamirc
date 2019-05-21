@@ -1,0 +1,3 @@
+project=hitchhiker_in_space
+test=rspec
+template=erb
